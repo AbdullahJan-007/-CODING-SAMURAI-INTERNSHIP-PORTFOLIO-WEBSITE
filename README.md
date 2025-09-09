@@ -2,10 +2,6 @@
 
 A modern, responsive portfolio website showcasing my skills, projects, and experience as a Computer Science student and aspiring software developer.
 
-## Live Demo
-
-[View Live Portfolio](https://your-domain.com) *[Note: Replace with your actual domain or GitHub Pages URL]*
-
 ## Features
 
 - **Modern Design**: Clean, professional layout with smooth animations

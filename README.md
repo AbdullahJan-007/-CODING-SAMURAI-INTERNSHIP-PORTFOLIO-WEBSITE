@@ -18,20 +18,6 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 - **Font Awesome**: Professional icons
 - **Google Fonts**: Poppins font family
 
-## Project Structure
-
-portfolio-website/
-├── index.html          # Main HTML file
-├── images/             # Directory for all images
-│   ├── profile.png     # Profile picture
-│   ├── smart-cart.png  # Smart Cart project image
-│   ├── dice-rolling.png # Dice Game project image
-│   ├── to-do-list.png  # To-Do List project image
-│   ├── atm-simulation.jpg # ATM Simulation project image
-│   ├── number-guessing.jpg # Number Guessing Game image
-│   └── portfolio-website.jpg # Portfolio project image
-└── README.md           # This file
-
 ## Key Sections
 
 1. **Hero Section**: Introduction with call-to-action
